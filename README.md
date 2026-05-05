@@ -1,8 +1,6 @@
 # Unity Shader Portfolio (URP)
 
 Repositorio de shaders desarrollados en Unity (URP).
-Cada shader está diseñado para ser modular, reutilizable y fácilmente ajustable.
-
 
 ## Contenido
 
@@ -25,12 +23,12 @@ Simula materiales tipo cápsula, combinando transparencia, variación de brillo 
 * Distorsión de fondo basada en normales
 
 **Explicación completa:**
-[Ver breakdown detallado](https://curly-billboard-7cb.notion.site/Pl-stico-rayado-3373ce3dafd6803a8397de39bc202894?pvs=73)
+[Ver explicación más detallada](https://curly-billboard-7cb.notion.site/Pl-stico-rayado-3373ce3dafd6803a8397de39bc202894?pvs=73)
 
 
 ## Notas
 
-Este repositorio está en constante expansión.
-Se irán añadiendo nuevos shaders con su respectiva documentación.
+Este repositorio está en expansión.
+Se irán añadiendo nuevos shaders.
 
 
