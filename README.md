@@ -25,6 +25,18 @@ Simula materiales tipo cápsula, combinando transparencia, variación de brillo 
 **Explicación completa:**
 [Ver explicación más detallada](https://curly-billboard-7cb.notion.site/Pl-stico-rayado-3373ce3dafd6803a8397de39bc202894?pvs=73)
 
+### Toon Shader
+![Plastic Scratched](Images/Toon.png)
+Shader de iluminación estilizada que crea un efecto tipo cartoon.
+
+**Características:**
+
+- Control del tamaño de las sombras (ShadowSize)
+- Ajuste de contraste (Min / Max)
+- Color base y textura opcional
+- Iluminación no realista (NPR)
+
+[Ver explicación más detallada](https://curly-billboard-7cb.notion.site/Toon-3573ce3dafd6805898dfcb1b4d0caa72?pvs=73)
 
 ## Notas
 
